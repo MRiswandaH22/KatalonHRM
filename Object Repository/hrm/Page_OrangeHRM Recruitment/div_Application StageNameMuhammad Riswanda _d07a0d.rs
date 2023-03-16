@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Application StageNameMuhammad Riswanda _d07a0d</name>
+   <tag></tag>
+   <elementGuidId>27d97dbe-ef6e-4ac8-ba22-c7005c6ea88e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-layout-context</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>92f39ed7-2e58-4913-a62a-18ab75d25a0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-layout-context</value>
+      <webElementGuid>c98b5037-26d4-49b2-9706-a8c25183f6bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Application StageNameMuhammad Riswanda HasanVacancySenior QA LeadHiring ManagerOdis  AdalwinStatus: Application Initiated Reject  Shortlist Candidate ProfileEditFull NameJob VacancySenior QA LeadEmailContact NumberResumeBrowseNo file selectedAccepts .docx, .doc, .odt, .pdf, .rtf, .txt up to 1MBKeywordsDate of ApplicationNotesConsent to keep dataCandidate History (2) Records FoundPerformed DateDescriptionActions2023-03-16Paul  Collings assigned the job vacancy Senior QA Lead2023-03-16Paul  Collings added Muhammad Riswanda Hasan</value>
+      <webElementGuid>b95e2d38-0b96-4401-b0fb-d59c898b1057</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]</value>
+      <webElementGuid>08096b01-d7a2-4510-8e80-53fa71ec5c87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]</value>
+      <webElementGuid>7c2f8dd9-b8c6-4144-87b2-b1a21b43573b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>ceed3d54-0f8c-4a54-a8b6-03eb15177c3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Application StageNameMuhammad Riswanda HasanVacancySenior QA LeadHiring ManagerOdis  AdalwinStatus: Application Initiated Reject  Shortlist Candidate ProfileEditFull NameJob VacancySenior QA LeadEmailContact NumberResumeBrowseNo file selectedAccepts .docx, .doc, .odt, .pdf, .rtf, .txt up to 1MBKeywordsDate of ApplicationNotesConsent to keep dataCandidate History (2) Records FoundPerformed DateDescriptionActions2023-03-16Paul  Collings assigned the job vacancy Senior QA Lead2023-03-16Paul  Collings added Muhammad Riswanda Hasan' or . = 'Application StageNameMuhammad Riswanda HasanVacancySenior QA LeadHiring ManagerOdis  AdalwinStatus: Application Initiated Reject  Shortlist Candidate ProfileEditFull NameJob VacancySenior QA LeadEmailContact NumberResumeBrowseNo file selectedAccepts .docx, .doc, .odt, .pdf, .rtf, .txt up to 1MBKeywordsDate of ApplicationNotesConsent to keep dataCandidate History (2) Records FoundPerformed DateDescriptionActions2023-03-16Paul  Collings assigned the job vacancy Senior QA Lead2023-03-16Paul  Collings added Muhammad Riswanda Hasan')]</value>
+      <webElementGuid>be4283fa-c7bd-4f3a-8485-84aba0261db4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
